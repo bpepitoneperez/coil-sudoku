@@ -1,7 +1,7 @@
-#Play online
+## Play online
 https://bpepitoneperez.github.io/coil-sudoku
 
-##Play locally
+## Play locally
 To play locally you'll have to clone this repository, install the npm dependencies, and then start it the command with npm start.
 
 
