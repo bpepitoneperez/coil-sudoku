@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coil-sudoku/static/css/main.18f519d3.css",
+    "main.js": "/coil-sudoku/static/js/main.7c623127.js",
+    "index.html": "/coil-sudoku/index.html",
+    "main.18f519d3.css.map": "/coil-sudoku/static/css/main.18f519d3.css.map",
+    "main.7c623127.js.map": "/coil-sudoku/static/js/main.7c623127.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f519d3.css",
+    "static/js/main.7c623127.js"
+  ]
+}
