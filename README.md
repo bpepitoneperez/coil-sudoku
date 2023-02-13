@@ -1,4 +1,4 @@
-##Play online
+#Play online
 https://bpepitoneperez.github.io/coil-sudoku
 
 ##Play locally
