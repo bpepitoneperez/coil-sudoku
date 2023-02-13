@@ -70,7 +70,8 @@ const App = () => {
         }
         else
         {
-          rowNums.push(num)
+          if(num !== 0)
+            rowNums.push(num)
         }
       }
     }
@@ -94,7 +95,8 @@ const App = () => {
         }
         else
         {
-          columnNums.push(num)
+          if(num !== 0)
+            columnNums.push(num)
         }
       }
     }
@@ -122,7 +124,8 @@ const App = () => {
               }
               else
               {
-                gridNums.push(num)
+                if(num !== 0)
+                  gridNums.push(num)
               }
           }
         }
